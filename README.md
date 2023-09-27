@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielabl&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielabl" /> </p>
 
-- 🌱 I’m currently learning **TypeScript**
-
 - 🔭 I’m currently working on [UrbanFarmer](https://github.com/gabrielabl/UrbanFarmer-client)
+
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **JavaScript, React, Node.js and Express**
 
